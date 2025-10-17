@@ -20,7 +20,7 @@ This project was created as part of a *Node.js Practical Exam* to demonstrate ba
 ✅ Responsive design (Public + Admin views)
 
 ---
-
+---
 ## 📂 Project Structure
 
 
@@ -44,7 +44,7 @@ blog-project/
 ├── package.json
 └── README.md
 
-
+---
 ---
 
 ## ⚙ Tech Stack
@@ -145,4 +145,5 @@ This project helps you understand:
 This project is licensed under the *MIT License* — feel free to use and modify it.
 
 ---
+
 
