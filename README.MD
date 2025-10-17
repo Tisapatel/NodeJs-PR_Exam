@@ -127,7 +127,7 @@ This project helps you understand:
 
 ## 🌐 Live Preview
 
-🔗 *Live Link:* [https://node-practical-exam.onrender.com](https://node-practical-exam.onrender.com)
+🔗 *Live Link:* https://nodejs-pr-exam-1.onrender.com/
 
 ---
 
@@ -145,3 +145,4 @@ This project helps you understand:
 This project is licensed under the *MIT License* — feel free to use and modify it.
 
 ---
+
